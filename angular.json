@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proffy"
+    }
+  },
+  "defaultProject": "proffy",
+  "cli": {
+    "analytics": "274372b5-2641-4e42-9046-948b159c5cbb"
+  }
 }
